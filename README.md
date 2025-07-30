@@ -1,2 +1,3 @@
-# Simon-Game
-Its my game
+# Simon Game
+
+This is the code for Simon game.
